@@ -12,7 +12,7 @@ A fun, interactive memory game featuring your favorite Toy Story characters! Thi
 
 ## How to Play
 
-1.  **Open the Game**: Double-click `toystorymatch.html` to open it in your web browser.
+1.  **Open the Game**: Double-click `index.html` to open it in your web browser.
 2.  **Welcome Screen**:
     *   Enter the **Child's Name**.
     *   Select a preferred **Voice** for Mommy and Daddy from the dropdowns (English voices recommended).
